@@ -17,4 +17,4 @@ for ($i = 0; $i < $len; $i++) {
     }
 }
 
-var_dump($a);
+print_r($a);
